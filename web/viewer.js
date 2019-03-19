@@ -4351,7 +4351,7 @@ var defaultOptions = {
     kind: OptionKind.VIEWER
   },
   defaultUrl: {
-    value: 'Core_v5.0.pdf',
+    value: 'bt51/Core_v5.1.pdf',
     kind: OptionKind.VIEWER
   },
   defaultZoomValue: {
